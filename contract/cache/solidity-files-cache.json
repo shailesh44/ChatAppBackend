@@ -1,0 +1,110 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/afraz/testing chain/utility-again-pp/contract/contracts/abc.sol": {
+      "lastModificationDate": 1662547395708,
+      "contentHash": "169fde1ff2f4b9d7c722528b32c63e50",
+      "sourceName": "contracts/abc.sol",
+      "solcConfig": {
+        "version": "0.8.16",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.7.0 <0.9.0"
+      ],
+      "artifacts": [
+        "Database"
+      ]
+    },
+    "/home/afraz/testing chain/utility-again-pp/contract/contracts/utilityApp.sol": {
+      "lastModificationDate": 1662546535017,
+      "contentHash": "166be53425753e2f3aad709e842c9070",
+      "sourceName": "contracts/utilityApp.sol",
+      "solcConfig": {
+        "version": "0.8.16",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.16"
+      ],
+      "artifacts": [
+        "UtilityApp"
+      ]
+    },
+    "/home/afraz/Desktop/UtilityApp - George/Blockchain_Utility_Application-Backend/contract/contracts/utilityApp.sol": {
+      "lastModificationDate": 1666246329148,
+      "contentHash": "4ebc563799f1abb856a54d040cc46f2f",
+      "sourceName": "contracts/utilityApp.sol",
+      "solcConfig": {
+        "version": "0.8.16",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.16"
+      ],
+      "artifacts": [
+        "UtilityApp"
+      ]
+    }
+  }
+}

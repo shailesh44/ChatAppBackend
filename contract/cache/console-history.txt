@@ -1,0 +1,7 @@
+await utility.userRegistration("Afraz","helllo this is rsa key");
+const utility= await UtilityApp.attach('0x94d39a36Dca277823827992D14b90aa7Ae104D02');
+const UtilityApp = await ethers.getContractFactory('UtilityApp');
+await utility.findUser("Afraz");
+await utility.userRegistration("Afraz","helllo this is rsa key");
+const utility= await UtilityApp.attach('0x99eD0D53601A5EE784933e364618425279B510be');
+const UtilityApp = await ethers.getContractFactory('UtilityApp');
